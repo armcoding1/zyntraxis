@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/zyntraxis/Desktop/zyntraxis/build",
+  "command": "/usr/bin/g++  -I/home/zyntraxis/Desktop/zyntraxis/include -g -o CMakeFiles/zyntraxis.dir/src/main.cpp.o -c /home/zyntraxis/Desktop/zyntraxis/src/main.cpp",
+  "file": "/home/zyntraxis/Desktop/zyntraxis/src/main.cpp",
+  "output": "CMakeFiles/zyntraxis.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/zyntraxis/Desktop/zyntraxis/build",
+  "command": "/usr/bin/g++  -I/home/zyntraxis/Desktop/zyntraxis/include -g -o CMakeFiles/zyntraxis.dir/src/speaker.cpp.o -c /home/zyntraxis/Desktop/zyntraxis/src/speaker.cpp",
+  "file": "/home/zyntraxis/Desktop/zyntraxis/src/speaker.cpp",
+  "output": "CMakeFiles/zyntraxis.dir/src/speaker.cpp.o"
+}
+]

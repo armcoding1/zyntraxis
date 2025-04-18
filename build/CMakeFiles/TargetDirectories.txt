@@ -1,0 +1,3 @@
+/home/zyntraxis/Desktop/zyntraxis/build/CMakeFiles/zyntraxis.dir
+/home/zyntraxis/Desktop/zyntraxis/build/CMakeFiles/edit_cache.dir
+/home/zyntraxis/Desktop/zyntraxis/build/CMakeFiles/rebuild_cache.dir
